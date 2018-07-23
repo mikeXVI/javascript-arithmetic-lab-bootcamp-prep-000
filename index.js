@@ -17,11 +17,11 @@ function divide(arg1, arg2){
 }
 
 function inc(arg){
-  return arg++
+  return arg+=1
 }
 
 function dec(arg){
-  return arg--
+  return arg-=1
 }
 
 function makeInt(n){
