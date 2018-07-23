@@ -1,3 +1,5 @@
 // write code here
 
-https://lichess1.org/assets/compiled/lichess.site.min.js?v=2076
+function add(arg1, arg2){
+  return arg1 + arg2
+}
